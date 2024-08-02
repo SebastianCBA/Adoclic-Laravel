@@ -1,0 +1,6 @@
+/vendor
+/db_data
+/db_data_test
+.env
+.env.testing
+phpunit.xml
